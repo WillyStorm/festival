@@ -26,6 +26,10 @@ git clone https://github.com/WillyStorm/festival.git
 
 cd festival
 
+### Video Presentation
+
+[Click to view video presentation](https://www.loom.com/share/f22aa1fe1b2844d6a10d27034b5cd1e1)
+
 ### Setup
 
 - nom Install
