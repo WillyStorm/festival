@@ -58,7 +58,7 @@ hr {
 }
 
 .bck {
-  background-image: url('../../images/back.png') !important;
+  background-image: url('./images/back.png') !important;
   background-repeat: repeat;
   padding-top: 30px;
   padding-bottom: 30px;
